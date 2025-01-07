@@ -1,0 +1,10 @@
+https://github.com/pBlueG/SA-MP-MySQL
+https://github.com/samp-incognito/samp-streamer-plugin
+https://github.com/BigETI/pawn-memory
+https://github.com/Y-Less/sscanf
+https://github.com/Sreyas-Sreelal/samp-bcrypt
+https://github.com/NexiusTailer/MapFix
+https://github.com/UnitedMel/SA-Community-Map-Fixes
+https://github.com/philip1337/samp-plugin-mapandreas
+https://github.com/NexiusTailer/Nex-AC
+https://github.com/ziggi/FCNPC
