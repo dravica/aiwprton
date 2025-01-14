@@ -16,3 +16,4 @@ https://www.youtube.com/watch?v=bMDbn7VGQRU
 https://www.youtube.com/watch?v=7Q5D2DCl7C4
 https://www.youtube.com/watch?v=VjIkzPcbKLo
 
+https://github.com/basdon/documented-samp-pawn-api/blob/master/a_sampdb.inc
